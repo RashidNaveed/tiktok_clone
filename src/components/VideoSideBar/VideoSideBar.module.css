@@ -1,0 +1,11 @@
+.side_bar {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  color: white;
+}
+
+.side_bar_selection_buttons {
+    padding: 5px 10px;
+    text-align: center;
+}
